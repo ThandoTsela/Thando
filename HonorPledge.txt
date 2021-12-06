@@ -1,0 +1,8 @@
+The work I submitted was purely my own work. I haven't sought help outside of these exceptions:
+
+  1. the textbook and other course materials
+  2. clarifying questions answered or hints provided by Prof. Jiang (or on Piazza)
+  3. discussions of the three design questions in Part II
+  4. error messages searched on the Internet (without copying any code directly)
+
+Name: THANDO_TSELA

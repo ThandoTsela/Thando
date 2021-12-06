@@ -1,0 +1,6 @@
+2021-12-03T23:05	Beijing	China
+2021-12-03T23:05	Kabul	Afghanistan
+2021-12-03T23:05	Kampala	Uganda
+2021-12-03T23:05	Ottawa	Canada
+2021-12-03T23:03	Apia	Samoa
+2021-12-03T23:05	Brasilia	Brazil
